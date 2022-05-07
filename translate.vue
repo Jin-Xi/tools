@@ -110,12 +110,14 @@
     }
 
     .test-container .wrapper .wraper-row-three {
+      	text-align:center;
         width: 286px;
         height: 51px;
         margin: 0px 0px 31px 131px;
     }
 
     .test-container .wrapper .wraper-row-four {
+      text-align:center;
         width: 146px;
         height: 42px;
         margin-left: 201px;
